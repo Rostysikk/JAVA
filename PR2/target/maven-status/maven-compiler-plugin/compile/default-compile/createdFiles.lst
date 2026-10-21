@@ -1,0 +1,8 @@
+ua\edu\finance\TransactionReportGenerator.class
+ua\edu\finance\TransactionAnalyzer.class
+ua\edu\finance\DataSource.class
+ua\edu\finance\Main.class
+ua\edu\finance\TransactionCSVReader.class
+ua\edu\finance\FileDataSource.class
+ua\edu\finance\UrlDataSource.class
+ua\edu\finance\Transaction.class
